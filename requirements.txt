@@ -1,0 +1,14 @@
+playwright
+beautifulsoup4
+dateparser
+tqdm
+chromadb
+openai
+sentence-transformers
+numpy
+python-dotenv
+markdownify
+fastapi
+uvicorn
+faiss-cpu
+python-dotenv
